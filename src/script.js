@@ -37,7 +37,7 @@ fontLoader.load(
 
         // Text
         const textGeometry = new TextGeometry(
-            'Gary Pereira',
+            'Please for the love of god help',
             {
                 font: font,
                 size: 0.5,
